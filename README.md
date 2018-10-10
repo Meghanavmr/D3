@@ -1,7 +1,7 @@
 # D3
 
 
-![Image](Image.jpg)
+![Image](https://github.com/Meghanavmr/D3/blob/master/Image.JPG)
 
 Include state abbreviations in the circles.
 
